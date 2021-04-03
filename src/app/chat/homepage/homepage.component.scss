@@ -1,0 +1,23 @@
+.main-cont{
+    // background-image: url('/assets/images/back.png');
+    // background-repeat: no-repeat;
+    // background-attachment: fixed;
+    // background-size: cover;
+    // -webkit-background-size: cover; 
+    // -moz-background-size: cover;
+}
+
+.img{
+    height: 10%;
+    width: 10%;
+}
+
+.column{
+    display: inline-block;
+    //float: left;
+    padding: 10px;
+}
+
+.horizontal{
+    display: flexbox;
+}
